@@ -1,6 +1,6 @@
 # Site settings
 title: Coaching Beacon
-email: prabhaker.panditi@gmail.com
+email: prabhaker.panditi@coachingbeacon.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -32,13 +32,13 @@ Services4:
 clinetsH : Our Clients
 
 #Ribbon 
-RHead1: Current Public Workshops
-RHead2: DevOps Master Architect Workshop!
-RHead3: 72 hours | 11 tools | 200+ hands-on Senarios
-RCTA:  Click to know more
+RHead1: Book Your Free Coaching Session Today!
+#RHead2: DevOps Master Architect Workshop!
+RHead3: ↑Joy ↑Career ↑Leadership ↓Stress
+RCTA: Request Coaching Session
 
-ph_number: +91-6362315334
-github_username: linkedin/company/quadralogics
+#ph_number: +91-6362315334
+github_username: https://www.linkedin.com/in/prabhakerpanditi/
 
 footer: ©  2020  www.CoachingBeacon.com
 
