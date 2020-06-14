@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 #Heading 
 Head1: Life Coaching
 Head2: Free Professional Life Coaching For You
-Head3: ↑Joy ↑Career ↑Leadership ↓Stress
+#Head3: ↑Joy ↑Career ↑Leadership ↓Stress
 
 #Call to action
 USPH: Psychology Based Life Coaching and Leadership Coaching
@@ -32,9 +32,9 @@ Services4:
 clinetsH : Our Clients
 
 #Ribbon 
-RHead1: Book Your Free Coaching Session Today!
-#RHead2: DevOps Master Architect Workshop!
-RHead3: ↑Joy ↑Career ↑Leadership ↓Stress
+RHead1: Book Your Free Coaching Session!
+RHead2: Experience Results Based Coaching
+RHead3: ↑Joy  ↑Career  ↑Leadership  ↓Stress
 RCTA: Request Coaching Session
 
 #ph_number: +91-6362315334
