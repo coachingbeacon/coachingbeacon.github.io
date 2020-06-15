@@ -6,9 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #Heading 
-Head1: Life Coaching
-Head2: Free Professional Life Coaching For You
-#Head3: ↑Joy ↑Career ↑Leadership ↓Stress
+Head1: Professional Life Coaching
+Head2: Result oriented. Online. Free
+Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
 #Call to action
 USPH: Psychology Based Life Coaching and Leadership Coaching
