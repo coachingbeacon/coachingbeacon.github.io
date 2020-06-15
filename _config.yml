@@ -6,13 +6,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #Heading 
-Head1: Professional Life Coaching
-Head2: Result oriented. Online. Free
+Head1: Online Life Coaching
+Head2: Prefessional. Result oriented. Free.
 Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
 #Call to action
-USPH: Psychology Based Life Coaching and Leadership Coaching
-USP: Coaching Beacon is all about helping you to reach your potential. You may be facing career challenges, emotional issues, or feeling stuck, stressed or overwhelmed. That's where we come in. We help you to address your challenges by tapping deep into your own reservoir of strength. Although the results seem like magic, how you end up uncovering these hidden gems in you is scientific and backed up by research. 
+USPH: How does coaching help you?
+USP: People who receive coaching report improved work performance, better relationships and improved ability to face life’s challenges.  Coaching gets these results by tapping deep into your own reservoir of strength. A Coach uses a combination of psychological approaches to match your personality, current state and specific challenges.  The results often seem like magic. You end up uncovering hidden gems of strength. You explore new possibilities. You discover the joy of living. 
+
 #services
 ServicesHeading: At Your Service
 
@@ -32,8 +33,8 @@ Services4:
 clinetsH : Our Clients
 
 #Ribbon 
-RHead1: Book Your Free Coaching Session!
-RHead2: Experience Results Based Coaching
+RHead1: Book your free life coaching session
+RHead2: Begin the journey of possibilities
 RHead3: ↑Joy  ↑Career  ↑Leadership  ↓Stress
 RCTA: Request Coaching Session
 
