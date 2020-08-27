@@ -6,9 +6,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #Heading 
-Head1: Life Coaching
-Head2: Online. Result oriented. Pro Bono.
-Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
+Head1: Coaching for Possibilities
+Head2: Career Growth. Leadership Development. Overcoming Personal Challenges.
+Head3: Online. Result Oriented. Pro Bono. 
+#Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
 #Call to action
 USPH: How does coaching help you?
