@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 #Heading 
 Head1: Possibilities Coaching
 Head2: Our online pro bono coaching gets results.  
-Head3: Trusted by tens of people who reported positive changes. Sometimes after just a single session. 
+Head3: People report positive changes. Sometimes after just a single session! 
 #Head3: Career Growth. Leadership Development. Overcoming Personal Challenges. 
 #Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
@@ -17,7 +17,8 @@ USPH: How does coaching help you?
 USP: People who receive coaching report improved work performance, better relationships and improved ability to face life’s challenges.  Coaching gets these results by tapping deep into your own reservoir of strength. A Coach uses a combination of psychological approaches to match your personality, current state and specific challenges.  The results often seem like magic. You end up uncovering hidden gems of strength. You explore new possibilities. You discover the joy of living. 
 
 #services
-ServicesHeading: At Your Service
+ServicesHeading: You should start seeing results from your first session onwards. Otherwise, why get coaching?
+#ServicesHeading: At Your Service
 
 Services1H: Leadership Coaching
 Services1: As Leadership Coaches, we can help match your unique leadership style to the situation at hand. You then become a more effective leader. You achieve greater results and better stakeholder satisfaction. Our approach is result oriented as we believe that ultimately outcomes matter.
