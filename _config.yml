@@ -7,8 +7,9 @@ url: "" # the base hostname & protocol for your site
 
 #Heading 
 Head1: Possibilities Coaching
-Head2: Online. Result Oriented. Pro Bono. 
-Head3: Career Growth. Leadership Development. Overcoming Personal Challenges. 
+Head2: Our online pro bono coaching gets results.  
+Head3: Trusted by tens of people who reported positive changes. Sometimes after just a single session. 
+#Head3: Career Growth. Leadership Development. Overcoming Personal Challenges. 
 #Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
 #Call to action
@@ -34,11 +35,11 @@ Services4: Coaching can guide you to start developing critical skills, and gener
 clinetsH : Our Clients
 
 #Ribbon 
-RHead1: Book your free life coaching session
+RHead1: Book your free coaching session
 #RHead2: Begin your journey towards new possibilities
 #RHead3: ↑Joy  ↑Career  ↑Leadership  ↓Stress
-RHead3: Begin your journey towards new possibilities
-RCTA: Request Coaching Session
+RHead3: I want to move towards new possibilities in my life and career
+RCTA: Request Free Coaching Session
 
 #ph_number: +91-6362315334
 github_username: https://www.linkedin.com/in/prabhakerpanditi/
