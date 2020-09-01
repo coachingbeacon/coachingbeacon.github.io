@@ -1,21 +1,21 @@
 # Site settings
-title: Coaching Beacon - Pro Bono Coaching
+title: Coaching Beacon - Pro Bono (Free) Coaching (For a limited time only)
 email: prabhaker.panditi@coachingbeacon.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 #Heading 
-Head1: Possibilities Coaching
-Head2: Our online pro bono coaching gets results.  
-Head3: People report positive changes. Sometimes after just a single session! 
+Head1: Coaching For Results
+Head2: Get Coaching Pro Bono (Free) - For A Limited Time Only   
+Head3: People report positive changes from our coaching. Sometimes after just a single session! 
 #Head3: Career Growth. Leadership Development. Overcoming Personal Challenges. 
 #Head3: ↑Confidence ↓Stress ↓Sadness ↑Joy 
 
 #Call to action
 USPH: Here's what others say about the results they achieved
 USP:  ￭ “There’s been a ripple effect of positive things at office”  A Sr. Corp. Leader   ￭ “I am handling things at the office much more calmly” A Sr. Software Professional  ￭ “I am more assertive. I am also generating more solutions at work”  A Business Person   
-￭ “I revived long term relationships and also spent time on my hobby after a long time”  An IT Consultant
+￭ “I revived long term relationships and also spent time on my hobby after a long time”  An IT Consultant "We both have become closer and happier.  ￭ We spend more quality time together" - A couple married for several years
 
 
 
@@ -47,7 +47,7 @@ RHead1: Excited about personal growth?
 #RHead2: Begin your journey towards new possibilities
 #RHead3: ↑Joy  ↑Career  ↑Leadership  ↓Stress
 RHead3: Yes, I want to move towards new possibilities in my life and career
-RCTA: Request A Free Coaching Session
+RCTA: Request Free Coaching Session
 
 #ph_number: +91-6362315334
 github_username: https://www.linkedin.com/in/prabhakerpanditi/
